@@ -1,4 +1,4 @@
 function darSaludo(){
-    console.log("Hola mundo");
+    console.log("Adios mundo de parte de Myriam");
 }
 darSaludo();
